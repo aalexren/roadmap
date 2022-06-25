@@ -34,5 +34,5 @@
 - [ ] [12. Асинхронное программирование](#)
 
 ### Курсы на Stepik.org
-- [x] [Программирование на Python](https://stepik.org/course/67/)
+- [x] [Программирование на Python](https://stepik.org/course/67/) – [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
 - [ ] [Python: основы и применение](https://stepik.org/course/512/)
