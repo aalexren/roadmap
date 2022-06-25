@@ -1,6 +1,6 @@
 # Дорожная карта
 
-## Список курсов для изучения
+## Python
 
 ### Лекции Computer Science Center 2015:
 [Ссылка на страницу курса](https://compscicenter.ru/courses/python/2015-autumn/classes/)
@@ -17,3 +17,18 @@
 - [ ] [Тестирование](https://compscicenter.ru/courses/python/2015-autumn/classes/1560/)
 - [ ] [Быстрее, Python, ещё быстрее](https://compscicenter.ru/courses/python/2015-autumn/classes/1561/)
 - [ ] [Многопоточность и GIL](https://compscicenter.ru/courses/python/2015-autumn/classes/1562/)
+
+### Лекции Яндекса 2020
+[Страница курса на habr.com](https://habr.com/ru/company/yandex/blog/498856/)
+- [x] [01. Устройство CPython](https://youtu.be/PxIqLgjtQ5Y)
+- [ ] [02. ООП]
+- [ ] [03. Тестирование]
+- [ ] [04. Базы данных]
+- [ ] [05. Базы данных: моедли, миграции, тестирование]
+- [ ] [06. Архитектура]
+- [ ] [07. Инфраструктура]
+- [ ] [08. Алгоритмы]
+- [ ] [09. дебаг, логирование, профилирование]
+- [ ] [10. Асинхронное программирование]
+- [ ] [11. Асинхронное программирование]
+- [ ] [12. Асинхронное программирование]
