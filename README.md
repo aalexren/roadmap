@@ -2,7 +2,7 @@
 
 ## Python
 
-### Лекции Computer Science Center 2015:
+### Лекции Computer Science Center 2015
 [Ссылка на страницу курса](https://compscicenter.ru/courses/python/2015-autumn/classes/)
 - [x] [Начало](https://youtu.be/5V7XG1mGiHc)
 - [ ] [Всё, что вы хотели знать о функциях в Python](https://compscicenter.ru/courses/python/2015-autumn/classes/1386/)
