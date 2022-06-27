@@ -5,7 +5,7 @@
 ### Лекции Computer Science Center 2015
 [Ссылка на страницу курса](https://compscicenter.ru/courses/python/2015-autumn/classes/)
 - [x] [Начало](https://youtu.be/5V7XG1mGiHc)
-- [ ] [Всё, что вы хотели знать о функциях в Python](https://compscicenter.ru/courses/python/2015-autumn/classes/1386/)
+- [x] [Всё, что вы хотели знать о функциях в Python](https://compscicenter.ru/courses/python/2015-autumn/classes/1386/)
 - [ ] [Декораторы и модуль functools](https://compscicenter.ru/courses/python/2015-autumn/classes/1387/)
 - [ ] [Строки, байты, файлы и ввод/вывод](https://compscicenter.ru/courses/python/2015-autumn/classes/1388/)
 - [ ] [Встроенные коллекции и модуль collections](https://compscicenter.ru/courses/python/2015-autumn/classes/1476/)
