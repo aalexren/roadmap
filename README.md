@@ -36,3 +36,9 @@
 ### Курсы на Stepik.org
 - [x] [Программирование на Python](https://stepik.org/course/67/) – [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
 - [ ] [Python: основы и применение](https://stepik.org/course/512/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybaa)
+
+
+## Математика
+
+### Яндекс Практикум
+- [ ] [Основы математики для цифровых профессий](https://practicum.yandex.ru/profile/math-foundations/)
