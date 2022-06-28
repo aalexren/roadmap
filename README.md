@@ -1,6 +1,6 @@
 # Дорожная карта
 
-## Python
+## Python :snake:
 
 ### Лекции Computer Science Center 2015
 [Ссылка на страницу курса](https://compscicenter.ru/courses/python/2015-autumn/classes/)
@@ -38,7 +38,7 @@
 - [ ] [Python: основы и применение](https://stepik.org/course/512/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybaa)
 
 
-## Математика
+## Математика :surfer:
 
 ### Яндекс Практикум
 - [ ] [Основы математики для цифровых профессий](https://practicum.yandex.ru/profile/math-foundations/)
