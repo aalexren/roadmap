@@ -33,6 +33,9 @@
 - [ ] [11. Асинхронное программирование](#)
 - [ ] [12. Асинхронное программирование](#)
 
+### Открытые лекции
+- [] [#PyConEstonia 2020: 'Object Oriented Programming from scratch (four times)' by Raymond Hettinger](https://youtu.be/8moWQ1561FY)
+
 ### Курсы на Stepik.org
 - [x] [Программирование на Python](https://stepik.org/course/67/) – [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
 - [ ] [Python: основы и применение](https://stepik.org/course/512/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybaa)
