@@ -45,3 +45,13 @@
 
 ### Яндекс Практикум
 - [ ] [Основы математики для цифровых профессий](https://practicum.yandex.ru/profile/math-foundations/)
+
+
+## Дополнительное образование
+### Бесплатные возможности 
+- [Школа Анализа Данных (ШАД) Яндекса](https://academy.yandex.ru/dataschool/)
+- [Computer Science Center (CSC)](https://compscicenter.ru/)
+- [Академия больших данных VK (MADE) ](https://data.vk.company/pages/index/)
+
+### Платное образование
+- [Курсы от ФПМИ МФТИ](https://fpmi-edu.ru/math_course)
