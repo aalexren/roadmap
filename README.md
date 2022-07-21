@@ -21,7 +21,7 @@
 ### Лекции Яндекса 2020
 [Страница курса на habr.com](https://habr.com/ru/company/yandex/blog/498856/)
 - [x] [01. Устройство CPython](https://youtu.be/PxIqLgjtQ5Y)
-- [ ] [02. ООП](#)
+- [ ] [02. ООП](https://youtu.be/Db19qjrMsYI)
 - [ ] [03. Тестирование](#)
 - [ ] [04. Базы данных](#)
 - [ ] [05. Базы данных: моедли, миграции, тестирование](#)
@@ -32,6 +32,9 @@
 - [ ] [10. Асинхронное программирование](#)
 - [ ] [11. Асинхронное программирование](#)
 - [ ] [12. Асинхронное программирование](#)
+
+### Открытый лекторий Яндекса 2022 по backend-разработке
+[Страница курса](https://academy.yandex.ru/lp/open-lectures)
 
 ### Открытые лекции
 - [ ] [#PyConEstonia 2020: 'Object Oriented Programming from scratch (four times)' by Raymond Hettinger](https://youtu.be/8moWQ1561FY)
