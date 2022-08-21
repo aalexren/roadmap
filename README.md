@@ -37,6 +37,7 @@
 [Страница курса](https://academy.yandex.ru/lp/open-lectures)
 
 ### Открытые лекции
+- [x] [:snake: Pytup: Шаблонизация Python-проектов» Евгений Афанасьев руководитель отдела разработки Тинькофф](https://yandex.zoom.us/rec/play/cmeHjDHdHTfLxEry1_9OeEQ2eWtl4JGe5gkhB4olSwOgVA3osYvTN1Gl7ghV6gpujDx2KIKEYne8Zbp8.mVpEHMeViCTH6JVY?continueMode=true&_x_zm_rtaid=xixPBpkNTCmBCnO7te8Vzw.1660919373189.65eca3d6d9ef30e335a1ee858a47556b&_x_zm_rhtaid=675) **// TODO**
 - [ ] [#PyConEstonia 2020: 'Object Oriented Programming from scratch (four times)' by Raymond Hettinger](https://youtu.be/8moWQ1561FY)
 
 ### Курсы на Stepik.org
@@ -54,7 +55,8 @@
 ### Бесплатные возможности 
 - [Школа Анализа Данных (ШАД) Яндекса](https://academy.yandex.ru/dataschool/)
 - [Computer Science Center (CSC)](https://compscicenter.ru/)
-- [Академия больших данных VK (MADE) ](https://data.vk.company/pages/index/)
+- [Академия больших данных VK (MADE)](https://data.vk.company/pages/index/)
+- [Школа Аналитиков Данных МТС.Тета](https://www.teta.mts.ru/analytics#in)
 
 ### Платное образование
 - [Курсы от ФПМИ МФТИ](https://fpmi-edu.ru/math_course)
