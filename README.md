@@ -60,3 +60,7 @@
 
 ### Платное образование
 - [Курсы от ФПМИ МФТИ](https://fpmi-edu.ru/math_course)
+
+
+## Алгоритмы
+- [Шпаргалка по Big O типичных структур данных](https://www.bigocheatsheet.com/)
