@@ -45,7 +45,11 @@
 - [ ] [Python: основы и применение](https://stepik.org/course/512/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybaa)
 
 
-## Математика :surfer:
+## Алгоритмы
+- [Шпаргалка по Big O типичных структур данных](https://www.bigocheatsheet.com/)
+
+
+## Математика и :surfer:
 
 ### Яндекс Практикум
 - [ ] [Основы математики для цифровых профессий](https://practicum.yandex.ru/profile/math-foundations/)
@@ -62,5 +66,18 @@
 - [Курсы от ФПМИ МФТИ](https://fpmi-edu.ru/math_course)
 
 
-## Алгоритмы
-- [Шпаргалка по Big O типичных структур данных](https://www.bigocheatsheet.com/)
+## Машинное обучение
+
+### Лекции CSC "Анализ данных на Python"
+– [ ] [Лекция 1. Описательные статистики. Квантили, квартили. Гистограммы](https://youtu.be/enpPFqcIFj8)
+- [ ] [Лекция 2. Описательные статистики. Ящики с усами. Выбросы.](https://youtu.be/G-zRmitRaJM)
+- [ ] [Лекция 3. Иерархический кластерный анализ](https://youtu.be/gXBs4_3aKrs)
+- [ ] [Лекция 4. Метод к-средних](https://youtu.be/cZ-deRKi1n4)
+- [ ] [Лекция 5. Проверка статистических гипотез (теоретическое введение)](https://youtu.be/01PL0UG6ah8)
+- [ ] [Лекция 6. Проверка статистических гипотез (процедуры Python)](https://youtu.be/yBsECOzVGI0)
+- [ ] [Лекция 7. A/B тестирование. Тест для пропорций](https://youtu.be/PZmeuPhgrA0)
+- [ ] [Лекция 8. Линейная регрессия](https://youtu.be/_PlC8Niun7U)
+- [ ] [Лекция 9. Прогнозирование на основе регрессионной модели](https://youtu.be/COBcXzKmOyk)
+- [ ] [Лекция 10. Деревья классификации и регрессии](https://youtu.be/hqnsTBKJ5Lg)
+- [ ] [Лекция 11. Random forest](https://youtu.be/BMD8gtGlQ_o)
+- [ ] [Лекция 12. Boosting. Gradient boosting machine. Ключевые параметры модели](https://youtu.be/-b6Y1DDxvL4)
