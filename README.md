@@ -55,18 +55,7 @@
 - [ ] [Основы математики для цифровых профессий](https://practicum.yandex.ru/profile/math-foundations/)
 
 
-## Дополнительное образование
-### Бесплатные возможности 
-- [Школа Анализа Данных (ШАД) Яндекса](https://academy.yandex.ru/dataschool/)
-- [Computer Science Center (CSC)](https://compscicenter.ru/)
-- [Академия больших данных VK (MADE)](https://data.vk.company/pages/index/)
-- [Школа Аналитиков Данных МТС.Тета](https://www.teta.mts.ru/analytics#in)
-
-### Платное образование
-- [Курсы от ФПМИ МФТИ](https://fpmi-edu.ru/math_course)
-
-
-## Машинное обучение
+## Машинное обучение :unicorn:
 
 ### Лекции CSC "Анализ данных на Python"
 - [ ] [Лекция 1. Описательные статистики. Квантили, квартили. Гистограммы](https://youtu.be/enpPFqcIFj8)
@@ -81,3 +70,14 @@
 - [ ] [Лекция 10. Деревья классификации и регрессии](https://youtu.be/hqnsTBKJ5Lg)
 - [ ] [Лекция 11. Random forest](https://youtu.be/BMD8gtGlQ_o)
 - [ ] [Лекция 12. Boosting. Gradient boosting machine. Ключевые параметры модели](https://youtu.be/-b6Y1DDxvL4)
+
+
+## Дополнительное образование
+### Бесплатные возможности 
+- [Школа Анализа Данных (ШАД) Яндекса](https://academy.yandex.ru/dataschool/)
+- [Computer Science Center (CSC)](https://compscicenter.ru/)
+- [Академия больших данных VK (MADE)](https://data.vk.company/pages/index/)
+- [Школа Аналитиков Данных МТС.Тета](https://www.teta.mts.ru/analytics#in)
+
+### Платное образование
+- [Курсы от ФПМИ МФТИ](https://fpmi-edu.ru/math_course)
