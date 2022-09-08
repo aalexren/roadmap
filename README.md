@@ -49,7 +49,7 @@
 - [Шпаргалка по Big O типичных структур данных](https://www.bigocheatsheet.com/)
 
 
-## Математика и :surfer:
+## Математика :surfer:
 
 ### Яндекс Практикум
 - [ ] [Основы математики для цифровых профессий](https://practicum.yandex.ru/profile/math-foundations/)
