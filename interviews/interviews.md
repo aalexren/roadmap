@@ -13,6 +13,10 @@
 *Remark.* Здесь мне сказали, что он сделал это специально, но не со зла. Я не понимаю как это возможно, потому что зачем ему тогда специально это делать? Быть может он убил смертельного жука, но тогда почему не извинился? В общем, нюанс.  
 
 
+# Data Scientist
+***keywords***: DWH, Airflow, Spark, Kafka, Docker Swarm, Kubernetes, pandas, numpy, Linear Regression, Data Lake, Hadoop, jupyter lab
+
+
 # Бизнес-аналитик
 
 1. Какие виды нотаций знаешь? (UML, BPMN и т.д.)

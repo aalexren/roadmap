@@ -73,6 +73,10 @@
 - [ ] [Лекция 12. Boosting. Gradient boosting machine. Ключевые параметры модели](https://youtu.be/-b6Y1DDxvL4)
 
 
+## БД, СУБД и SQL
+- [Курс по PostgreSQL для разработчиков](https://postgrespro.ru/education/courses)
+
+
 ## Дополнительное образование
 ### Бесплатные возможности 
 - [Школа Анализа Данных (ШАД) Яндекса](https://academy.yandex.ru/dataschool/)
