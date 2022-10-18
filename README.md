@@ -38,6 +38,7 @@
 
 ### Открытые лекции
 - [x] [:snake: Pytup: Шаблонизация Python-проектов» Евгений Афанасьев руководитель отдела разработки Тинькофф](https://yandex.zoom.us/rec/play/cmeHjDHdHTfLxEry1_9OeEQ2eWtl4JGe5gkhB4olSwOgVA3osYvTN1Gl7ghV6gpujDx2KIKEYne8Zbp8.mVpEHMeViCTH6JVY?continueMode=true&_x_zm_rtaid=xixPBpkNTCmBCnO7te8Vzw.1660919373189.65eca3d6d9ef30e335a1ee858a47556b&_x_zm_rhtaid=675) **// TODO**
+- [x] [Как писать и тестировать миграции БД с Alembic](https://youtu.be/KFj3VhMTAdk)
 - [ ] [#PyConEstonia 2020: 'Object Oriented Programming from scratch (four times)' by Raymond Hettinger](https://youtu.be/8moWQ1561FY)
 
 ### Курсы на Stepik.org
