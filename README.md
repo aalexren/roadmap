@@ -50,6 +50,7 @@
 - [Шпаргалка по Big O типичных структур данных](https://www.bigocheatsheet.com/)
 - [Сайт с алгоритмами и структурами данных от Тинькофф](https://ru.algorithmica.org/)
 - [Справочник Яндекса. Yandex handbook](https://academy.yandex.ru/handbook/algorithms/)
+- [Algocode wiki](https://wiki.algocode.ru/index.php?title=Заглавная_страница)
 
 
 ## Математика :surfer:
