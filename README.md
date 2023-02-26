@@ -22,29 +22,32 @@
 [Страница курса на habr.com](https://habr.com/ru/company/yandex/blog/498856/)
 - [x] [01. Устройство CPython](https://youtu.be/PxIqLgjtQ5Y)
 - [ ] [02. ООП](https://youtu.be/Db19qjrMsYI)
-- [ ] [03. Тестирование](#)
-- [ ] [04. Базы данных](#)
-- [ ] [05. Базы данных: модели, миграции, тестирование](#)
-- [ ] [06. Архитектура](#)
-- [ ] [07. Инфраструктура](#)
-- [ ] [08. Алгоритмы](#)
-- [ ] [09. Дебаг, логирование, профилирование](#)
-- [ ] [10. Асинхронное программирование](#)
-- [ ] [11. Асинхронное программирование](#)
-- [ ] [12. Асинхронное программирование](#)
+- [ ] [03. Тестирование](https://youtu.be/2-EBSIRs0H4)
+- [ ] [04. Базы данных](https://youtu.be/YjSIdz8DnAo)
+- [ ] [05. Базы данных: модели, миграции, тестирование](https://youtu.be/OOBrVLYTgxk)
+- [ ] [06. Архитектура](https://youtu.be/dH1_g8V5vQQ)
+- [ ] [07. Инфраструктура](https://youtu.be/uRA5bL-vkQg)
+- [ ] [08. Алгоритмы](https://youtu.be/ECOZDHS5DfE)
+- [ ] [09. Дебаг, логирование, профилирование](https://youtu.be/YKSRnDP2u0Q)
+- [x] [10. Асинхронное программирование](https://youtu.be/AXkOli6BsBY)
+- [ ] [11. Асинхронное программирование](https://youtu.be/IB4bJqmfjI0)
+- [ ] [12. Асинхронное программирование](https://youtu.be/FFUYf8FHDlY)
 
 ### Открытый лекторий Яндекса 2022 по backend-разработке
 [Страница курса](https://academy.yandex.ru/lp/open-lectures)
 
 ### Открытые лекции
-- [x] [:snake: Pytup: Шаблонизация Python-проектов» Евгений Афанасьев руководитель отдела разработки Тинькофф](https://yandex.zoom.us/rec/play/cmeHjDHdHTfLxEry1_9OeEQ2eWtl4JGe5gkhB4olSwOgVA3osYvTN1Gl7ghV6gpujDx2KIKEYne8Zbp8.mVpEHMeViCTH6JVY?continueMode=true&_x_zm_rtaid=xixPBpkNTCmBCnO7te8Vzw.1660919373189.65eca3d6d9ef30e335a1ee858a47556b&_x_zm_rhtaid=675) **// TODO**
+- [x] [:snake: Pytup: Шаблонизация Python-проектов» Евгений Афанасьев руководитель отдела разработки Тинькофф](https://youtu.be/YS3ahO0fgoo)
 - [x] [Как писать и тестировать миграции БД с Alembic](https://youtu.be/KFj3VhMTAdk)
 - [ ] [#PyConEstonia 2020: 'Object Oriented Programming from scratch (four times)' by Raymond Hettinger](https://youtu.be/8moWQ1561FY)
+- [ ] [Build Your Own Async. David Beazley](https://youtu.be/Y4Gt3Xjd7G8)
 
 ### Курсы на Stepik.org
 - [x] [Программирование на Python](https://stepik.org/course/67/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
 - [ ] [Python: основы и применение](https://stepik.org/course/512/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybaa)
 
+### Параллельное программирование 2022 от CSC
+- [Плейлист](https://youtube.com/playlist?list=PLlb7e2G7aSpTBs1GPt-4UygYxK3bVSyZe)
 
 ## Алгоритмы
 - [Шпаргалка по Big O типичных структур данных](https://www.bigocheatsheet.com/)
