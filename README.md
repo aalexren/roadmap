@@ -93,3 +93,6 @@
 
 ### Платное образование
 - [Курсы от ФПМИ МФТИ](https://fpmi-edu.ru/math_course)
+
+
+[Сертификаты (Certificates)](https://drive.google.com/drive/folders/1GFggEz-8oj-K0T0-tsHH0RTPrRc-dt-s?usp=sharing)
