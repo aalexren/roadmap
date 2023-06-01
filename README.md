@@ -21,7 +21,7 @@
 ### Лекции Яндекса 2020
 [Страница курса на habr.com](https://habr.com/ru/company/yandex/blog/498856/)
 - [x] [01. Устройство CPython](https://youtu.be/PxIqLgjtQ5Y)
-- [ ] [02. ООП](https://youtu.be/Db19qjrMsYI)
+- [x] [02. ООП](https://youtu.be/Db19qjrMsYI)
 - [ ] [03. Тестирование](https://youtu.be/2-EBSIRs0H4)
 - [ ] [04. Базы данных](https://youtu.be/YjSIdz8DnAo)
 - [ ] [05. Базы данных: модели, миграции, тестирование](https://youtu.be/OOBrVLYTgxk)
