@@ -41,6 +41,7 @@
 - [x] [Как писать и тестировать миграции БД с Alembic](https://youtu.be/KFj3VhMTAdk)
 - [ ] [#PyConEstonia 2020: 'Object Oriented Programming from scratch (four times)' by Raymond Hettinger](https://youtu.be/8moWQ1561FY)
 - [ ] [Build Your Own Async. David Beazley](https://youtu.be/Y4Gt3Xjd7G8)
+- [x] [OAuth 2.0 and OpenID Connect (in plain English)](https://youtu.be/996OiexHze0)
 
 ### Курсы на Stepik.org
 - [x] [Программирование на Python](https://stepik.org/course/67/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
