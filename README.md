@@ -35,6 +35,9 @@
 
 ### Открытый лекторий Яндекса 2022 по backend-разработке
 [Страница курса](https://academy.yandex.ru/lp/open-lectures)
+- [ ] [Архитектура распределённых систем](https://www.youtube.com/live/VoDGD_-d-Sg?feature=share)
+- [ ] [DevOps, CI/CD, Часть 1](https://www.youtube.com/live/5llOsvi7xeM?feature=share)
+- [ ] [DevOps, CI/CD, Часть 2](https://www.youtube.com/live/5cbvqmDAOZA?feature=share)
 
 ### Открытые лекции
 - [x] [:snake: Pytup: Шаблонизация Python-проектов» Евгений Афанасьев руководитель отдела разработки Тинькофф](https://youtu.be/YS3ahO0fgoo)
@@ -47,8 +50,13 @@
 - [x] [Программирование на Python](https://stepik.org/course/67/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
 - [x] [Python: основы и применение](https://stepik.org/course/512/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybaa)
 
+### Avito Tech. YouTube
+- [ ] [Паттерны и практики написания кода. Часть 1](https://youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP)
+- [ ] [Паттерны и практики написания кода. Часть 2](https://youtube.com/playlist?list=PLknJ4Vr6efQHvhvlGcBSD4KHa4ekAn0DS)
+
 ### Параллельное программирование 2022 от CSC
-- [Плейлист](https://youtube.com/playlist?list=PLlb7e2G7aSpTBs1GPt-4UygYxK3bVSyZe)
+[Плейлист](https://youtube.com/playlist?list=PLlb7e2G7aSpTBs1GPt-4UygYxK3bVSyZe)
+- [x] [13. Асинхронный ввод/вывод. Корутины](https://youtu.be/hxMiDiOmnP4)
 
 ## Алгоритмы
 - [Шпаргалка по Big O типичных структур данных](https://www.bigocheatsheet.com/)
