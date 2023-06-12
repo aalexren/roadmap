@@ -35,7 +35,7 @@
 
 ### Открытый лекторий Яндекса 2022 по backend-разработке
 [Страница курса](https://academy.yandex.ru/lp/open-lectures)
-- [ ] [Архитектура распределённых систем](https://www.youtube.com/live/VoDGD_-d-Sg?feature=share)
+- [x] [Архитектура распределённых систем](https://www.youtube.com/live/VoDGD_-d-Sg?feature=share)
 - [ ] [DevOps, CI/CD, Часть 1](https://www.youtube.com/live/5llOsvi7xeM?feature=share)
 - [ ] [DevOps, CI/CD, Часть 2](https://www.youtube.com/live/5cbvqmDAOZA?feature=share)
 
