@@ -30,7 +30,7 @@
 - [ ] [08. Алгоритмы](https://youtu.be/ECOZDHS5DfE)
 - [ ] [09. Дебаг, логирование, профилирование](https://youtu.be/YKSRnDP2u0Q)
 - [x] [10. Асинхронное программирование](https://youtu.be/AXkOli6BsBY)
-- [ ] [11. Асинхронное программирование](https://youtu.be/IB4bJqmfjI0)
+- [x] [11. Асинхронное программирование](https://youtu.be/IB4bJqmfjI0)
 - [ ] [12. Асинхронное программирование](https://youtu.be/FFUYf8FHDlY)
 
 ### Открытый лекторий Яндекса 2022 по backend-разработке
