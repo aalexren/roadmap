@@ -59,6 +59,10 @@
 - [x] [13. Асинхронный ввод/вывод. Корутины](https://youtu.be/hxMiDiOmnP4)
 
 ## Алгоритмы
+- [ ] [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)
+- [ ] [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)
+
+- [Тренировки по алгоритмам Яндекс 1.0](https://youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)
 - [Шпаргалка по Big O типичных структур данных](https://www.bigocheatsheet.com/)
 - [Сайт с алгоритмами и структурами данных от Тинькофф](https://ru.algorithmica.org/)
 - [Справочник Яндекса. Yandex handbook](https://academy.yandex.ru/handbook/algorithms/)
@@ -67,9 +71,20 @@
 
 ## Математика :surfer:
 
-### Яндекс Практикум
-- [ ] [Основы математики для цифровых профессий](https://practicum.yandex.ru/profile/math-foundations/)
+От простого к сложному
 
+- [Курс "Математическое мышление" Савватеева](https://youtube.com/playlist?list=PLH3NNipqeM1uyGrWR6jwgjnVi2ZX-NjoS)
+- [Вехи математики "от Евклида до Галуа"](https://youtube.com/playlist?list=PLH3NNipqeM1uNlTpQ0aw5u7VoVxQO3g7N)
+- [Основы математики для цифровых профессий](https://practicum.yandex.ru/profile/math-foundations/)
+
+- [ ] [Дискретная математика и комбинаторика](https://stepik.org/course/83/info)
+
+### Университетская математика
+- [Математический анализ. Бутузов В.Ф. Часть I](https://youtube.com/playlist?list=PLcsjsqLLSfNCqt362BPlvI3PH5LlcCk1a)
+- [Математический анализ. Бутузов В.Ф. Часть II](https://youtube.com/playlist?list=PLcsjsqLLSfND4O0ntnAYIJsgYgT0HaVe_)
+- [Математический анализ. Бутузов В.Ф. Часть III](https://youtube.com/playlist?list=PLcsjsqLLSfND6s_h8xQIykCkgcTYCXjEx)
+- [Алгебра и геометрия. ФПМИ 2019](https://youtube.com/playlist?list=PL4_hYwCyhAvbl0Q8dZRLJBdzc6j9S_p70)
+- [Элементарное введение в теорию групп (небольшой курс)](https://youtube.com/playlist?list=PLnbH8YQPwKblIpRi0ARO2VadnMwntvF51)
 
 ## Машинное обучение :unicorn:
 
