@@ -49,6 +49,7 @@
 ### Курсы на Stepik.org
 - [x] [Программирование на Python](https://stepik.org/course/67/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
 - [x] [Python: основы и применение](https://stepik.org/course/512/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybaa)
+- [x] [Docker для начинающих + практический опыт](https://stepik.org/course/123300/info)
 
 ### Avito Tech. YouTube
 - [ ] [Паттерны и практики написания кода. Часть 1](https://youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP)
