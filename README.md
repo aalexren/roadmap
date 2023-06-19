@@ -7,7 +7,7 @@
 - [x] [Начало](https://youtu.be/5V7XG1mGiHc)
 - [x] [Всё, что вы хотели знать о функциях в Python](https://compscicenter.ru/courses/python/2015-autumn/classes/1386/)
 - [x] [Декораторы и модуль functools](https://compscicenter.ru/courses/python/2015-autumn/classes/1387/)
-- [ ] [Строки, байты, файлы и ввод/вывод](https://compscicenter.ru/courses/python/2015-autumn/classes/1388/)
+- [x] [Строки, байты, файлы и ввод/вывод](https://compscicenter.ru/courses/python/2015-autumn/classes/1388/)
 - [ ] [Встроенные коллекции и модуль collections](https://compscicenter.ru/courses/python/2015-autumn/classes/1476/)
 - [x] [Классы 1](https://compscicenter.ru/courses/python/2015-autumn/classes/1477/)
 - [ ] [Исключения и менеджеры контекста](https://compscicenter.ru/courses/python/2015-autumn/classes/1520/)
