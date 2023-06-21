@@ -10,7 +10,7 @@
 - [x] [Строки, байты, файлы и ввод/вывод](https://compscicenter.ru/courses/python/2015-autumn/classes/1388/)
 - [x] [Встроенные коллекции и модуль collections](https://compscicenter.ru/courses/python/2015-autumn/classes/1476/)
 - [x] [Классы 1](https://compscicenter.ru/courses/python/2015-autumn/classes/1477/)
-- [ ] [Исключения и менеджеры контекста](https://compscicenter.ru/courses/python/2015-autumn/classes/1520/)
+- [x] [Исключения и менеджеры контекста](https://compscicenter.ru/courses/python/2015-autumn/classes/1520/)
 - [ ] [Итераторы, генераторы и модуль itertools](https://compscicenter.ru/courses/python/2015-autumn/classes/1542/)
 - [ ] [Модули, пакеты и система импорта](https://compscicenter.ru/courses/python/2015-autumn/classes/1556/)
 - [ ] [Классы 2](https://compscicenter.ru/courses/python/2015-autumn/classes/1559/)
