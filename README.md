@@ -2,6 +2,9 @@
 
 ## Python :snake:
 
+### Книги
+- [x] [Python concurrency with asyncio by Matthew Fowler](https://github.com/aalexren/me-python-concurrency-with-asyncio/)
+
 ### Лекции Computer Science Center 2015
 [Ссылка на страницу курса](https://compscicenter.ru/courses/python/2015-autumn/classes/)
 - [x] [Начало](https://youtu.be/5V7XG1mGiHc)
