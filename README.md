@@ -15,7 +15,7 @@
 - [x] [Классы 1](https://compscicenter.ru/courses/python/2015-autumn/classes/1477/)
 - [x] [Исключения и менеджеры контекста](https://compscicenter.ru/courses/python/2015-autumn/classes/1520/)
 - [x] [Итераторы, генераторы и модуль itertools](https://compscicenter.ru/courses/python/2015-autumn/classes/1542/)
-- [ ] [Модули, пакеты и система импорта](https://compscicenter.ru/courses/python/2015-autumn/classes/1556/)
+- [x] [Модули, пакеты и система импорта](https://compscicenter.ru/courses/python/2015-autumn/classes/1556/)
 - [ ] [Классы 2](https://compscicenter.ru/courses/python/2015-autumn/classes/1559/)
 - [ ] [Тестирование](https://compscicenter.ru/courses/python/2015-autumn/classes/1560/)
 - [ ] [Быстрее, Python, ещё быстрее](https://compscicenter.ru/courses/python/2015-autumn/classes/1561/)
