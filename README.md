@@ -73,7 +73,8 @@
 
 ## Администрирование Linux и DevOps
 
-### Курсы
+### Курсы и лекции
+- [ ] [Docker.Глубокое погружение](https://youtube.com/playlist?list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&si=CI97PVMSrqa-F4GK)
 - [ ] [Containers under the hood](https://www.udemy.com/course/containers-under-the-hood)
 - [x] [Docker для начинающих + практический опыт](https://stepik.org/course/123300/info)
 - [x] [Complete GitLab CI/CD Course with Nana](https://www.techworld-with-nana.com/gitlab-cicd-course)
