@@ -1,5 +1,7 @@
 # Дорожная карта
 
+:fire: – more fires, more difficult topic is
+
 ## Python :snake:
 
 ### Книги
@@ -13,10 +15,10 @@
 - [x] [Строки, байты, файлы и ввод/вывод](https://compscicenter.ru/courses/python/2015-autumn/classes/1388/)
 - [x] [Встроенные коллекции и модуль collections](https://compscicenter.ru/courses/python/2015-autumn/classes/1476/)
 - [x] [Классы 1](https://compscicenter.ru/courses/python/2015-autumn/classes/1477/)
-- [x] [Исключения и менеджеры контекста](https://compscicenter.ru/courses/python/2015-autumn/classes/1520/)
+- [x] [Исключения и менеджеры контекста](https://compscicenter.ru/courses/python/2015-autumn/classes/1520/) :fire:
 - [x] [Итераторы, генераторы и модуль itertools](https://compscicenter.ru/courses/python/2015-autumn/classes/1542/)
-- [x] [Модули, пакеты и система импорта](https://compscicenter.ru/courses/python/2015-autumn/classes/1556/)
-- [ ] [Классы 2](https://compscicenter.ru/courses/python/2015-autumn/classes/1559/)
+- [x] [Модули, пакеты и система импорта](https://compscicenter.ru/courses/python/2015-autumn/classes/1556/) :fire:
+- [x] [Классы 2](https://compscicenter.ru/courses/python/2015-autumn/classes/1559/) :fire::fire::fire:
 - [ ] [Тестирование](https://compscicenter.ru/courses/python/2015-autumn/classes/1560/)
 - [ ] [Быстрее, Python, ещё быстрее](https://compscicenter.ru/courses/python/2015-autumn/classes/1561/)
 - [ ] [Многопоточность и GIL](https://compscicenter.ru/courses/python/2015-autumn/classes/1562/)
@@ -47,7 +49,7 @@
 - [x] [Как писать и тестировать миграции БД с Alembic](https://youtu.be/KFj3VhMTAdk)
 - [ ] [#PyConEstonia 2020: 'Object Oriented Programming from scratch (four times)' by Raymond Hettinger](https://youtu.be/8moWQ1561FY)
 - [ ] [Build Your Own Async. David Beazley](https://youtu.be/Y4Gt3Xjd7G8)
-- [x] [OAuth 2.0 and OpenID Connect (in plain English)](https://youtu.be/996OiexHze0)
+- [x] [OAuth 2.0 and OpenID Connect (in plain English)](https://youtu.be/996OiexHze0) :fire:
 
 ### Курсы на Stepik.org
 - [x] [Программирование на Python](https://stepik.org/course/67/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
