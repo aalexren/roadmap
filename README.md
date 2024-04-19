@@ -2,10 +2,18 @@
 
 :fire: – more fires, more difficult topic is
 
-## Python :snake:
+## Книги
+### Python
+- [x] [Python concurrency with asyncio by Matthew Fowler](https://github.com/aalexren/me-python-concurrency-with-asyncio/) :fire:
+- [ ] [Fluent Python, 2nd Edition by Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) :fire: :arrow_backward:
+- [ ] [Robust Python by Patrick Viafore](https://www.oreilly.com/library/view/robust-python/9781098100650/)
+- [ ] [CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter/dp/1775093344)
+### База
+- [ ] [Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание. Виктор Олифер, Наталья Олифер](https://www.chitai-gorod.ru/product/kompyuternye-seti-principy-tehnologii-protokoly-yubileynoe-izdanie-2781728)
+### Linux, DevOps
+- [ ] [Linux Bible, 10th edition by Christopher Negus](https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/1119578884)
 
-### Книги
-- [x] [Python concurrency with asyncio by Matthew Fowler](https://github.com/aalexren/me-python-concurrency-with-asyncio/)
+## Python :snake:
 
 ### Лекции Computer Science Center 2015
 [Ссылка на страницу курса](https://compscicenter.ru/courses/python/2015-autumn/classes/)
