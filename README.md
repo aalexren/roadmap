@@ -5,11 +5,11 @@
 ## Книги
 ### Python
 - [x] [Python concurrency with asyncio by Matthew Fowler](https://github.com/aalexren/me-python-concurrency-with-asyncio/) :fire:
-- [ ] [Fluent Python, 2nd Edition by Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) :fire: :arrow_backward:
+- [ ] [Fluent Python, 2nd Edition by Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) :fire:
 - [ ] [Robust Python by Patrick Viafore](https://www.oreilly.com/library/view/robust-python/9781098100650/)
 - [ ] [CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter/dp/1775093344)
 ### База
-- [ ] [Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание. Виктор Олифер, Наталья Олифер](https://www.chitai-gorod.ru/product/kompyuternye-seti-principy-tehnologii-protokoly-yubileynoe-izdanie-2781728)
+- [ ] [Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание. Виктор Олифер, Наталья Олифер](https://www.chitai-gorod.ru/product/kompyuternye-seti-principy-tehnologii-protokoly-yubileynoe-izdanie-2781728) :arrow_backward:
 ### Linux, DevOps
 - [ ] [Linux Bible, 10th edition by Christopher Negus](https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/1119578884)
 
@@ -84,9 +84,16 @@
 ## Администрирование Linux и DevOps
 
 ### Курсы и лекции
+**Docker**
 - [ ] [Docker.Глубокое погружение](https://youtube.com/playlist?list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&si=CI97PVMSrqa-F4GK)
 - [ ] [Containers under the hood](https://www.udemy.com/course/containers-under-the-hood)
 - [x] [Docker для начинающих + практический опыт](https://stepik.org/course/123300/info)
+- [ ] [Linux container primitives: cgroups, namespaces, and more!](https://youtu.be/x1npPrzyKfs?si=6vqG_6J_aS7RA8dO)
+
+**Kubernetes**
+- [ ] [Kubernetes tutorial for beginners (full course in 4 hours)](https://youtu.be/X48VuDVv0do?si=WQJb24nLOHSxuId3)
+
+**Other**
 - [x] [Complete GitLab CI/CD Course with Nana](https://www.techworld-with-nana.com/gitlab-cicd-course)
 
 ## Математика :surfer:
@@ -125,6 +132,16 @@
 
 ## БД, СУБД и SQL
 - [Курс по PostgreSQL для разработчиков](https://postgrespro.ru/education/courses)
+- [ ] [What every programmer has to know about Database Storage by Alex Petrov](https://youtu.be/e1wbQPbFZdk?si=D_X3q_6uoagxBGlF)
+- [ ] [Векторные БД](https://youtu.be/--DbpHtyO4s?si=ibgP-EmPi749emek)
+- [ ] [Андрей Сальников – Индексы в PostgreSQL. Как понять, что создавать?](https://youtu.be/ju9F8OvnL4E?si=KsIfeGB5OaN115J0) 
+
+### Брокеры сообщений
+- [ ] [Про Kafka (основы)](https://youtu.be/-AZOi3kP9Js?si=8C0edKvgXBujX0yF)
+
+## Архитектура ЭВМ и Операционные системы
+- [ ] [Механизмы синхронизации в операционных системах](https://youtu.be/clRwA-JGBQI?si=1Hpao9IWjhXXnc2w) :fire:
+- [ ] [Монолитные и микроядра](https://youtu.be/m4KN7o7D3DE?si=tfaiR3h36iY8TBVa) 
 
 
 ## Дополнительное образование
