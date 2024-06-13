@@ -57,7 +57,6 @@
 - [x] [Как писать и тестировать миграции БД с Alembic](https://youtu.be/KFj3VhMTAdk)
 - [ ] [#PyConEstonia 2020: 'Object Oriented Programming from scratch (four times)' by Raymond Hettinger](https://youtu.be/8moWQ1561FY)
 - [ ] [Build Your Own Async. David Beazley](https://youtu.be/Y4Gt3Xjd7G8)
-- [x] [OAuth 2.0 and OpenID Connect (in plain English)](https://youtu.be/996OiexHze0) :fire:
 
 ### Курсы на Stepik.org
 - [x] [Программирование на Python](https://stepik.org/course/67/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
@@ -66,6 +65,13 @@
 ### Avito Tech. YouTube
 - [ ] [Паттерны и практики написания кода. Часть 1](https://youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP)
 - [ ] [Паттерны и практики написания кода. Часть 2](https://youtube.com/playlist?list=PLknJ4Vr6efQHvhvlGcBSD4KHa4ekAn0DS)
+
+### Дополнительно
+- [x] [CORS для чайников: история возникновения, как устроен и оптимальные методы работы](https://habr.com/ru/companies/macloud/articles/553826/) :fire:
+- - [ссылка на архив](https://web.archive.org/web/20240613121746/https://habr.com/ru/companies/macloud/articles/553826/)
+- [x] [OAuth 2.0 and OpenID Connect (in plain English)](https://youtu.be/996OiexHze0) :fire:
+- [ ] [Инструменты Domain Driven Design](https://habr.com/ru/companies/oleg-bunin/articles/488010/)
+- - [ссылка на архив](https://web.archive.org/web/20230711102224/https://habr.com/ru/companies/oleg-bunin/articles/488010/)
 
 ### Параллельное программирование 2022 от CSC
 [Плейлист](https://youtube.com/playlist?list=PLlb7e2G7aSpTBs1GPt-4UygYxK3bVSyZe)
