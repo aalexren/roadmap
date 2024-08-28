@@ -159,7 +159,6 @@
 - [Школа Анализа Данных (ШАД) Яндекса](https://academy.yandex.ru/dataschool/)
 - [Computer Science Center (CSC)](https://compscicenter.ru/)
 - [Академия больших данных VK (MADE)](https://data.vk.company/pages/index/)
-- [Школа Аналитиков Данных МТС.Тета](https://www.teta.mts.ru/analytics#in)
 
 ### Платное образование
 - [Курсы от ФПМИ МФТИ](https://fpmi-edu.ru/math_course)
