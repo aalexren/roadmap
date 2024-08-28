@@ -10,8 +10,11 @@
 - [ ] [CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter/dp/1775093344)
 ### База
 - [ ] [Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание. Виктор Олифер, Наталья Олифер](https://www.chitai-gorod.ru/product/kompyuternye-seti-principy-tehnologii-protokoly-yubileynoe-izdanie-2781728) :arrow_backward:
+### Базы данных
+- [ ] [Путеводитель по базам данных. Владимир Комаров](https://edu.postgrespro.ru/dbguide.pdf) :arrow_backward:
 ### Linux, DevOps
 - [ ] [Linux Bible, 10th edition by Christopher Negus](https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/1119578884)
+- [ ] [Внутреннее устройство Linux. Брайан Уорд. 3-е издание](https://habr.com/ru/companies/piter/articles/689268/) :arrow_backward:
 
 ## Python :snake:
 
@@ -46,11 +49,9 @@
 - [x] [11. Асинхронное программирование](https://youtu.be/IB4bJqmfjI0)
 - [x] [12. Асинхронное программирование](https://youtu.be/FFUYf8FHDlY)
 
-### Открытый лекторий Яндекса 2022 по backend-разработке
+### Открытый лекторий Яндекса
 [Страница курса](https://academy.yandex.ru/lp/open-lectures)
 - [x] [Архитектура распределённых систем](https://www.youtube.com/live/VoDGD_-d-Sg?feature=share)
-- [ ] [DevOps, CI/CD, Часть 1](https://www.youtube.com/live/5llOsvi7xeM?feature=share)
-- [ ] [DevOps, CI/CD, Часть 2](https://www.youtube.com/live/5cbvqmDAOZA?feature=share)
 
 ### Открытые лекции
 - [x] [:snake: Pytup: Шаблонизация Python-проектов» Евгений Афанасьев руководитель отдела разработки Тинькофф](https://youtu.be/YS3ahO0fgoo)
@@ -91,16 +92,18 @@
 
 ### Курсы и лекции
 **Docker**
-- [ ] [Docker.Глубокое погружение](https://youtube.com/playlist?list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&si=CI97PVMSrqa-F4GK)
+- [ ] [Docker.Глубокое погружение](https://youtube.com/playlist?list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&si=CI97PVMSrqa-F4GK) :arrow_backward:
 - [ ] [Containers under the hood](https://www.udemy.com/course/containers-under-the-hood)
 - [x] [Docker для начинающих + практический опыт](https://stepik.org/course/123300/info)
-- [ ] [Linux container primitives: cgroups, namespaces, and more!](https://youtu.be/x1npPrzyKfs?si=6vqG_6J_aS7RA8dO)
 
 **Kubernetes**
 - [ ] [Kubernetes tutorial for beginners (full course in 4 hours)](https://youtu.be/X48VuDVv0do?si=WQJb24nLOHSxuId3)
 
 **Other**
 - [x] [Complete GitLab CI/CD Course with Nana](https://www.techworld-with-nana.com/gitlab-cicd-course)
+- [ ] [DevOps, CI/CD, Часть 1](https://www.youtube.com/live/5llOsvi7xeM?feature=share)
+- [ ] [DevOps, CI/CD, Часть 2](https://www.youtube.com/live/5cbvqmDAOZA?feature=share)
+- [x] [Тренировки по DevOps. Лекция 3: Процессы Linux](https://www.youtube.com/live/usQYwp916e0?si=R-nXBqcrc4JLgbrX)
 
 ## Математика :surfer:
 
