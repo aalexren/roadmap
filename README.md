@@ -9,7 +9,7 @@
 - [ ] [Robust Python by Patrick Viafore](https://www.oreilly.com/library/view/robust-python/9781098100650/)
 - [ ] [CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter/dp/1775093344)
 ### База
-- [ ] [Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание. Виктор Олифер, Наталья Олифер](https://www.chitai-gorod.ru/product/kompyuternye-seti-principy-tehnologii-protokoly-yubileynoe-izdanie-2781728) :arrow_backward:
+- [ ] [Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание. Виктор Олифер, Наталья Олифер](https://www.chitai-gorod.ru/product/kompyuternye-seti-principy-tehnologii-protokoly-yubileynoe-izdanie-2781728) :fire: :fire: :arrow_backward:
 ### Базы данных
 - [ ] [Путеводитель по базам данных. Владимир Комаров](https://edu.postgrespro.ru/dbguide.pdf) :arrow_backward:
 ### Linux, DevOps
