@@ -31,7 +31,7 @@
 - [x] [Модули, пакеты и система импорта](https://compscicenter.ru/courses/python/2015-autumn/classes/1556/) :fire:
 - [x] [Классы 2](https://compscicenter.ru/courses/python/2015-autumn/classes/1559/) :fire::fire::fire:
 - [x] [Тестирование](https://compscicenter.ru/courses/python/2015-autumn/classes/1560/)
-- [ ] [Быстрее, Python, ещё быстрее](https://compscicenter.ru/courses/python/2015-autumn/classes/1561/)
+- [x] [Быстрее, Python, ещё быстрее](https://compscicenter.ru/courses/python/2015-autumn/classes/1561/)
 - [ ] [Многопоточность и GIL](https://compscicenter.ru/courses/python/2015-autumn/classes/1562/)
 
 ### Лекции Яндекса 2020
