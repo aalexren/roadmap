@@ -140,6 +140,7 @@
 
 
 ## БД, СУБД и SQL
+- [SQL Академия. Отличные уроки](https://sql-academy.org/ru/guide)
 - [Курс по PostgreSQL для разработчиков](https://postgrespro.ru/education/courses)
 - - [ ] [Разработка серверной части приложений PostgreSQL 16. Базовый курс](https://postgrespro.ru/education/courses/DEV1)
 - [ ] [What every programmer has to know about Database Storage by Alex Petrov](https://youtu.be/e1wbQPbFZdk?si=D_X3q_6uoagxBGlF)
