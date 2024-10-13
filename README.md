@@ -9,12 +9,12 @@
 - [ ] [Robust Python by Patrick Viafore](https://www.oreilly.com/library/view/robust-python/9781098100650/)
 - [ ] [CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter/dp/1775093344)
 ### База
-- [ ] [Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание. Виктор Олифер, Наталья Олифер](https://www.chitai-gorod.ru/product/kompyuternye-seti-principy-tehnologii-protokoly-yubileynoe-izdanie-2781728) :fire: :fire: :arrow_backward:
+- [ ] [Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание. Виктор Олифер, Наталья Олифер](https://www.chitai-gorod.ru/product/kompyuternye-seti-principy-tehnologii-protokoly-yubileynoe-izdanie-2781728) :fire: :fire:
 ### Базы данных
-- [ ] [Путеводитель по базам данных. Владимир Комаров](https://edu.postgrespro.ru/dbguide.pdf) :arrow_backward:
+- [ ] [Путеводитель по базам данных. Владимир Комаров](https://edu.postgrespro.ru/dbguide.pdf) :fire: :arrow_backward:
 ### Linux, DevOps
 - [ ] [Linux Bible, 10th edition by Christopher Negus](https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/1119578884)
-- [ ] [Внутреннее устройство Linux. Брайан Уорд. 3-е издание](https://habr.com/ru/companies/piter/articles/689268/) :arrow_backward:
+- [ ] [Внутреннее устройство Linux. Брайан Уорд. 3-е издание](https://habr.com/ru/companies/piter/articles/689268/)
 
 ## Python :snake:
 
