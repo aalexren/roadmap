@@ -95,6 +95,7 @@
 - [ ] [Docker.Глубокое погружение](https://youtube.com/playlist?list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&si=CI97PVMSrqa-F4GK) :arrow_backward:
 - [ ] [Containers under the hood](https://www.udemy.com/course/containers-under-the-hood)
 - [x] [Docker для начинающих + практический опыт](https://stepik.org/course/123300/info)
+- [x] [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/slurm/articles/329138/)
 
 **Kubernetes**
 - [ ] [Kubernetes tutorial for beginners (full course in 4 hours)](https://youtu.be/X48VuDVv0do?si=WQJb24nLOHSxuId3)
