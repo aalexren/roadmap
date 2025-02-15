@@ -10,6 +10,7 @@
 - [ ] [CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter/dp/1775093344)
 ### База
 - [ ] [Компьютерные сети. Принципы, технологии, протоколы: Юбилейное издание. Виктор Олифер, Наталья Олифер](https://www.chitai-gorod.ru/product/kompyuternye-seti-principy-tehnologii-protokoly-yubileynoe-izdanie-2781728) :fire: :fire:
+- [x] [Чистый код. Роберт Мартин](https://www.piter.com/product/chistyy-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-45ccca)
 ### Базы данных
 - [ ] [Путеводитель по базам данных. Владимир Комаров](https://edu.postgrespro.ru/dbguide.pdf) :fire: :arrow_backward:
 ### Linux, DevOps
@@ -141,6 +142,7 @@
 
 
 ## БД, СУБД и SQL
+- [ ] [Курс "ClickHouse для аналитика" на stepik.org](https://stepik.org/course/100210/syllabus)
 - [SQL Академия. Отличные уроки](https://sql-academy.org/ru/guide)
 - [Курс по PostgreSQL для разработчиков](https://postgrespro.ru/education/courses)
 - - [ ] [Разработка серверной части приложений PostgreSQL 16. Базовый курс](https://postgrespro.ru/education/courses/DEV1)
