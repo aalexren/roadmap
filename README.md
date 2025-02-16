@@ -143,7 +143,7 @@
 
 
 ## БД, СУБД и SQL
-- [ ] [Курс "ClickHouse для аналитика" на stepik.org](https://stepik.org/course/100210/syllabus)
+- [x] [Курс "ClickHouse для аналитика" на stepik.org](https://stepik.org/course/100210/syllabus)
 - [SQL Академия. Отличные уроки](https://sql-academy.org/ru/guide)
 - [Курс по PostgreSQL для разработчиков](https://postgrespro.ru/education/courses)
 - - [ ] [Разработка серверной части приложений PostgreSQL 16. Базовый курс](https://postgrespro.ru/education/courses/DEV1)
