@@ -173,7 +173,8 @@
 [Сертификаты (Certificates)](https://drive.google.com/drive/folders/1GFggEz-8oj-K0T0-tsHH0RTPrRc-dt-s?usp=sharing)
 
 
+---
 
 List of github issues i could try to resolve:
-- https://github.com/apache/airflow/discussions/40113#discussioncomment-10869110 (https://github.com/apache/airflow/issues/42806)
-- https://github.com/dbeaver/dbeaver/issues/37214
+- [ ] https://github.com/apache/airflow/discussions/40113#discussioncomment-10869110 (https://github.com/apache/airflow/issues/42806)
+- [ ] https://github.com/dbeaver/dbeaver/issues/37214
