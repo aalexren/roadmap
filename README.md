@@ -152,7 +152,7 @@
 - [ ] [Андрей Сальников – Индексы в PostgreSQL. Как понять, что создавать?](https://youtu.be/ju9F8OvnL4E?si=KsIfeGB5OaN115J0) 
 
 ### Брокеры сообщений
-- [ ] [Про Kafka (основы)](https://youtu.be/-AZOi3kP9Js?si=8C0edKvgXBujX0yF)
+- [x] [Про Kafka (основы)](https://youtu.be/-AZOi3kP9Js?si=8C0edKvgXBujX0yF)
 
 ## Архитектура ЭВМ и Операционные системы
 - [ ] [Механизмы синхронизации в операционных системах](https://youtu.be/clRwA-JGBQI?si=1Hpao9IWjhXXnc2w) :fire:
