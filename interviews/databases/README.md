@@ -1,6 +1,6 @@
 # Общие вопросы по реляционным БД
 1. Что такое rollback segment?
-2. Что такое Table Space?
+2. Что такое Tablespace?
 
 # SQL
 
