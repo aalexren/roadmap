@@ -33,7 +33,7 @@
 - [x] [Классы 2](https://compscicenter.ru/courses/python/2015-autumn/classes/1559/) :fire::fire::fire:
 - [x] [Тестирование](https://compscicenter.ru/courses/python/2015-autumn/classes/1560/)
 - [x] [Быстрее, Python, ещё быстрее](https://compscicenter.ru/courses/python/2015-autumn/classes/1561/)
-- [ ] [Многопоточность и GIL](https://compscicenter.ru/courses/python/2015-autumn/classes/1562/)
+- [x] [Многопоточность и GIL](https://compscicenter.ru/courses/python/2015-autumn/classes/1562/)
 
 ### Лекции Яндекса 2020
 [Страница курса на habr.com](https://habr.com/ru/company/yandex/blog/498856/)
@@ -64,6 +64,7 @@
 ### Курсы на Stepik.org
 - [x] [Программирование на Python](https://stepik.org/course/67/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybase)
 - [x] [Python: основы и применение](https://stepik.org/course/512/) - [*репозиторий курса*](https://github.com/aalexren/stepik-pybaa)
+- [x] [ClickHouse для аналитика](https://stepik.org/course/100210/info)
 
 ### Avito Tech. YouTube
 - [ ] [Паттерны и практики написания кода. Часть 1](https://youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP)
@@ -80,10 +81,16 @@
 [Плейлист](https://youtube.com/playlist?list=PLlb7e2G7aSpTBs1GPt-4UygYxK3bVSyZe)
 - [x] [13. Асинхронный ввод/вывод. Корутины](https://youtu.be/hxMiDiOmnP4)
 
-## Алгоритмы
-- [ ] [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)
+## Алгоритмы (в порядке приоритета и наличия доступа)
+- [ ] ["Поколение Python": Алгоритмы и структуры данных для начинающих](https://stepik.org/course/100575/promo) 
+- [ ] [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info) :arrow_backward:
 - [ ] [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info)
+- [ ] [Data Structures](https://stepik.org/course/579/promo)
+- [ ] [Быстрый старт в спортивное программирование](https://stepik.org/course/64454/info)
+- [ ] [Математика для олимпиад по программированию](https://stepik.org/course/4603/info)
+- [ ] [Спортивное программирование](https://stepik.org/course/53634/info)
 
+### Outdated
 - [Тренировки по алгоритмам Яндекс 1.0](https://youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)
 - [Шпаргалка по Big O типичных структур данных](https://www.bigocheatsheet.com/)
 - [Сайт с алгоритмами и структурами данных от Тинькофф](https://ru.algorithmica.org/)
