@@ -1,3 +1,6 @@
+- [Theoretical Questions](theory.md)
+- [Live Coding](live_coding.md)
+
 # Личные вопросы
 
 1. Какие у тебя хобби?
