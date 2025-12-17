@@ -149,7 +149,7 @@
 - [ ] [Лекция 12. Boosting. Gradient boosting machine. Ключевые параметры модели](https://youtu.be/-b6Y1DDxvL4)
 
 
-## БД, СУБД и SQL
+## БД, СУБД, SQL, СХД, Брокеры
 - [x] [Курс "ClickHouse для аналитика" на stepik.org](https://stepik.org/course/100210/syllabus)
 - [SQL Академия. Отличные уроки](https://sql-academy.org/ru/guide)
 - [Курс по PostgreSQL для разработчиков](https://postgrespro.ru/education/courses)
@@ -157,13 +157,19 @@
 - [ ] [What every programmer has to know about Database Storage by Alex Petrov](https://youtu.be/e1wbQPbFZdk?si=D_X3q_6uoagxBGlF)
 - [ ] [Векторные БД](https://youtu.be/--DbpHtyO4s?si=ibgP-EmPi749emek)
 - [ ] [Андрей Сальников – Индексы в PostgreSQL. Как понять, что создавать?](https://youtu.be/ju9F8OvnL4E?si=KsIfeGB5OaN115J0) 
-
-### Брокеры сообщений
 - [x] [Про Kafka (основы)](https://youtu.be/-AZOi3kP9Js?si=8C0edKvgXBujX0yF)
+- [ ] [PySpark — Spark OOM Error](https://youtu.be/McMQ7yMaL9Q?si=36yEaNyh8epXJSNV)
+- [ ] [How does the Spark work?](https://youtu.be/nKM4f1olwsI?si=gMlr4AcmHA6DCA0i)
+- [ ] [ETL Pipeline using DBT & Snoflake](https://youtu.be/OLXkGB7krGo?si=_7YhmlMbQ8d88h7y)
 
 ## Архитектура ЭВМ и Операционные системы
 - [ ] [Механизмы синхронизации в операционных системах](https://youtu.be/clRwA-JGBQI?si=1Hpao9IWjhXXnc2w) :fire:
-- [ ] [Монолитные и микроядра](https://youtu.be/m4KN7o7D3DE?si=tfaiR3h36iY8TBVa) 
+- [ ] [Монолитные и микроядра](https://youtu.be/m4KN7o7D3DE?si=tfaiR3h36iY8TBVa)
+- [x] [Kernel mode vs User mode](https://youtu.be/H4SDPLiUnv4?si=c8KKpAI1Vaceciiq)
+- [ ] [CPU Clock](https://youtu.be/PVNAPWUxZ0g?si=JlvMA-qR041Nmkf0)
+- [ ] [IPC (Inter Process Communication)](https://youtu.be/Y2mDwW2pMv4?si=Ije7sWydeWuyW_W_)
+- [ ] [Threads](https://youtu.be/M9HHWFp84f0?si=NXAqwTuwN7N_0amR)
+- [ ] [Threads on multicore systems](https://youtu.be/5sw9XJokAqw?si=Lk8A2ie9DPAm333s)
 
 
 ## Дополнительное образование
