@@ -1,8 +1,8 @@
-## Tinkoff (Т-Банк) Middle Data Engineer 2025
+# Tinkoff (Т-Банк) Middle Data Engineer 2025
 
-### Algorithms part
+## Algorithms part
 
-#### String compression
+### String compression
 Given an array of characters chars, compress it using the following algorithm:
 
 Begin with an empty string s. For each group of consecutive repeating characters in chars:
@@ -15,7 +15,7 @@ The compressed string s should not be returned separately, but instead, be store
 - [HakerRank](https://www.hackerrank.com/challenges/string-compression/problem)
 - [LeetCode (array version)](https://leetcode.com/problems/string-compression/description/)
 
-#### Sort out the athletes (SQL)
+### Sort out the athletes (SQL)
 Дана таблица sportsmen со столбцами id: int (primary key) и score (int). Необходимо каждому спортсмену в таблице присвоить место по результатам score. Реализовать без использования оконных функций или 'order by'.
 
 ```
@@ -47,20 +47,20 @@ SELECT t1.id,
  GROUP BY t1.id, t1.score;
 ```
 
-## Magnit Tech (Магнит) Middle Data Engineer 2025
+# Magnit Tech (Магнит) Middle Data Engineer 2025
 
-### Algorithms part
+## Algorithms part
 
-#### Longest substring with K uniques
+### Longest substring with K uniques
 You are given a string `s` consisting only lowercase alphabets and an integer `k`. Your task is to find the length of the longest substring that contains exactly `k` distinct characters.
 
 - [geekforgeeks](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)
 - [LeetCode (related problem)](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)
 
 
-## Yandex (Яндекс) Middle Software Engineer 2025
+# Yandex (Яндекс) Middle Software Engineer 2025
 
-### Practical part
+## Practical part
 
 *Remark: в этой секции общение как раз важно, умение пользоваться поисковым движком, находить релевантную информацию и т.д. Не переусложняйте код, пишите сначала "baseline", затем улучшайте. Заранее всё настройте, разберитесь с импортированием в python в созданной среде. Тем не менее, в конечно итоге от вас минимум требуется — хотя бы одно рабочее решение и полностью рабочие тесты к нему (пускай и простые), иначе "финиш".*
 
@@ -178,11 +178,11 @@ class StubProcessor(Processor):
         return bytes(b ^ self.encryption_key for b in data)
 ```
 
-### Algorithms part
+## Algorithms part
 
 Учтите, что несмотря на всё, что пишет Яндекс ваша цель одна — решить задачу как можно быстрее **без** ошибок. Все разговоры про общение на интервью, рассуждение вслух и т.д. — сплошная формальность, единственное зачем это может быть нужно — вам так проще рассуждать. Поэтому сосредоточтесь полностью на решении. Важно! Иногда вас будут просить дать теоретическое решение перед написанием кода, в таком случае, если вы его знаете, то проблем нет, но если возник ступор, обязательно имейте в виду, что *подсказка* в решении будет практически полностью гарантировать **провал** секции! Даже если вы старались, выдали много разных версий, всё на что смотрят — решение задачи без ошибок. **Любая** неточность или ошибка, которые обнаружит собеседующий после ваших слов "готово" кратно сокращает шансы на прохождение секции.
 
-#### Longest subarray of 1's after deleting one element
+### Longest subarray of 1's after deleting one element
 Given a binary array `nums`, you should delete one element from it.
 
 Return the size of the longest non-empty subarray containing only 1's in the resulting array. Return 0 if there is no such subarray.
@@ -191,7 +191,7 @@ Return the size of the longest non-empty subarray containing only 1's in the res
 
 *Remark: отдельно стоит рассмотреть два случая: когда все элементы 0 и когда все элементы 1 (удалять можно не только нули).*
 
-#### Maximum average subarray II
+### Maximum average subarray II
 You are given an integer array `nums` with `n` elements and an integer `k`.
 
 Your task is to find a contiguous subarray whose length is at least `k` that has the maximum possible average value. Return this maximum average value.
