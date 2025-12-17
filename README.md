@@ -125,6 +125,7 @@
 
 - [ ] [Дискретная математика и комбинаторика](https://stepik.org/course/83/info)
 - [ ] [Остаток от деления отрицательных чисел](https://youtu.be/GQX2WJVf2aw?si=6ePaetaTp7_qYedz)
+- [ ] [Почему программистам нужна математика](https://youtu.be/fVzvl9jJEv8?si=8pj38_OjwI_Bw62u)
 
 ### Университетская математика
 - [Математический анализ. Бутузов В.Ф. Часть I](https://youtube.com/playlist?list=PLcsjsqLLSfNCqt362BPlvI3PH5LlcCk1a)
