@@ -124,6 +124,7 @@
 - [Основы математики для цифровых профессий](https://practicum.yandex.ru/profile/math-foundations/)
 
 - [ ] [Дискретная математика и комбинаторика](https://stepik.org/course/83/info)
+- [ ] [Остаток от деления отрицательных чисел](https://youtu.be/GQX2WJVf2aw?si=6ePaetaTp7_qYedz)
 
 ### Университетская математика
 - [Математический анализ. Бутузов В.Ф. Часть I](https://youtube.com/playlist?list=PLcsjsqLLSfNCqt362BPlvI3PH5LlcCk1a)
