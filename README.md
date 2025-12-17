@@ -109,6 +109,10 @@
 **Kubernetes**
 - [ ] [Kubernetes tutorial for beginners (full course in 4 hours)](https://youtu.be/X48VuDVv0do?si=WQJb24nLOHSxuId3)
 
+**MLOps**
+- [ ] [MLOps Course ODS](https://youtube.com/playlist?list=PLq1Gb8mkRXd7qmdmcORLHJGAmNzUro4OF&si=BMz1aU-GtTQkAMvq)
+- [ ] [MLOps и production подкод к ML исследованиям 2.0](https://youtube.com/playlist?list=PLUJY3Hn1BMCIiVRaQyKDA_molGS3-R1d_&si=OCJfK-n7--PqpJLn)
+
 **Other**
 - [x] [Complete GitLab CI/CD Course with Nana](https://www.techworld-with-nana.com/gitlab-cicd-course)
 - [ ] [DevOps, CI/CD, Часть 1](https://www.youtube.com/live/5llOsvi7xeM?feature=share)
